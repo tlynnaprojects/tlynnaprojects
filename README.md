@@ -1,1 +1,1 @@
-Hello there! I'm Lynna Tsai! I graduated from Boston College with a biology degree and am currently learning Python and building on my R skills. I want to combine my background in biology with data science. Check out the projects I'm currently working on here!
+Hello there! I'm Lynna ! I graduated from Boston College with a biology degree and am currently learning Python and building on my R skills. Check out the projects I'm currently working on here!
